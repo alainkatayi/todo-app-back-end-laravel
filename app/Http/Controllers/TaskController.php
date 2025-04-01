@@ -70,4 +70,5 @@ class TaskController extends Controller
             "message" => "Article supprimé"
         ]);
     }
+
 }
